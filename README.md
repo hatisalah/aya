@@ -2,7 +2,7 @@
 > See my html code here
 ```html
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
     <title>Aya</title>
 </head>
